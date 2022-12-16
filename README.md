@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DB
+- 👋 Hi, I’m @MechanicWare
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 📫 How to reach me: Unknown
