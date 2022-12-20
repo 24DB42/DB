@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MechanicWare
+- 👋 Hi, I’m @BC Body Shop & Auto Repair
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 📫 How to reach me: Unknown
